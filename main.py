@@ -1,4 +1,4 @@
-# main.py - CORREGIDO para usar el hamming74.py suministrado
+# main.py - 
 from machine import Pin, I2C, UART
 import time
 from hamming74 import hamming74_encode, hamming74_decode  # ← Usar las funciones suministradas
